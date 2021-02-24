@@ -117,7 +117,7 @@
                     }
                 ],
                 "azPowerShellVersion": "3.0",
-                "primaryScriptUri": "./psscripttest.ps1",
+                "primaryScriptUri": "https://raw.githubusercontent.com/rob-mckenna/armtest/main/psscripttest.ps1",
                 "retentionInterval": "P1D"
             }
         }
